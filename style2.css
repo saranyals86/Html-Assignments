@@ -1,0 +1,8 @@
+.main-body{
+    display: flex;
+    justify-content: space-evenly;
+}
+#message {
+    height: 80px;
+    width: 155px;
+    }
